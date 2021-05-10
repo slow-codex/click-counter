@@ -1,4 +1,4 @@
-# click-counter
+# cClick Counter(Mouse CLicks)
 Counts the no, of clicks on a button of a page
 ----------------------------------------------
 <-

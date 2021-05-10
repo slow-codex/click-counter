@@ -1,4 +1,4 @@
-# cClick Counter(Mouse CLicks)
+# Click Counter(Mouse CLicks)
 Counts the no, of clicks on a button of a page
 ----------------------------------------------
 <-
